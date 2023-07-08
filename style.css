@@ -2,3 +2,34 @@
     margin: 0px;
     padding: 0px;
 }
+
+/* Nav section style */
+
+.menu-container{
+    background-color: rgba(212, 176, 129, 0.507);
+    padding: 15px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menus{
+    display: flex;
+}
+.margine-item{
+    margin-left: 10px;
+    padding-right: 8px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.margine-item:hover{
+    color: blue;
+}
+.logo-photo{
+    width: 120px;
+}
+
+
+
+
+
