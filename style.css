@@ -112,9 +112,43 @@
 }
 
 /* This is footer area  */
-
-
-
-
-
+.footer-section{
+    height: 300px;
+    font-weight: 100%;
+    background-color: black;
+}
+.footer-container{
+    background-color: black;
+    display: flex;
+    height: 280px;
+    justify-content: space-around;
+    text-align: center;
+}
+.logo-footer{
+    width: 120px;
+}
+.footer-area{
+    padding: 70px 50px;
+    width: 230px;
+}
+li{
+    color: #fff;
+    margin-top: 3px;
+    list-style: none;
+    text-align: left;
+}
+h4{
+    margin-bottom: 20px;
+    color: #fff;
+}
+.footer-description{
+    color: #fff;
+    margin-top: 10px;
+    text-align: justify;
+}
+.copywrite-text{
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+}
 
